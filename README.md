@@ -66,4 +66,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [your-email@example.com](harisimran7857@gmail.com)
+Haris Muhamamd Imran - harisimran7857@gmail.com
