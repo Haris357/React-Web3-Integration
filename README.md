@@ -59,9 +59,6 @@ This will start the React application on `localhost:3000`.
 - ethers.js
 - web3.js
 
-## Contributing
-
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](<link-to-issues-page>) for open issues.
 
 ## License
 
@@ -69,4 +66,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [your-email@example.com](mailto:your-email@example.com)
+Your Name - [your-email@example.com](harisimran7857@gmail.com)
